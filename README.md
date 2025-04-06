@@ -72,9 +72,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deiivid-Dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="Top Languages" />
 </div>
-
----
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/3oKIPic3FZRFu0gedy/giphy.gif" />
-</div>
