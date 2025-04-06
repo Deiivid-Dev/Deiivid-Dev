@@ -75,12 +75,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Deiivid-Dev/Deiivid-Dev/output/snake.svg" alt="Snake animation" />
-
----
-
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/3oKIPic3FZRFu0gedy/giphy.gif" />
 </div>
